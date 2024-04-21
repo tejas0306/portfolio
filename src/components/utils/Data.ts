@@ -92,8 +92,6 @@ export const moreProjects = [
     icon: 'toybrick',
     href: 'https://connetixtiles.com/',
   },
-  ,
-
   {
     id: 5,
     title: 'PRM Management Group',
